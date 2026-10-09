@@ -2,7 +2,7 @@
 
 # FICHA DE DECISÕES · War Room FiapBank (CP6 · 3 aulas)
 
-> Este arquivo é o **README.md do repositório do grupo** (`cp6-warroom-<nome-do-grupo>`).
+> Este arquivo é o **README.md do repositório do grupo** (`cp6-warroom-alpha`).
 > Vale **5,0 pontos** (rodadas 0,5 · relâmpagos 0,3), e a nota é pela
 > **justificativa**, não pela letra. Preencham após cada aula e commitem até
 > **23h59 do mesmo dia** (regras completas na seção 5 do enunciado).
@@ -12,17 +12,18 @@
 
 **Grupo (nome da equipe plantonista):** ______________________________________
 
-**Turma:** ____________ **Repo:** `cp6-warroom-____________________`
+**Turma:** 2CCPH **Repo:** `cp6-warroom-alpha`
 
 **Integrantes (nome + RM):**
 
-| Nome | RM |
-|---|---|
-| | |
-| | |
-| | |
-| | |
-| | |
+| ----Nome----| ----RM---- |
+|-------------|------------|
+|Pedro Gabriel|562242|
+|Leonardo Augusto|565564|
+|Alexandre|563346|
+|Guilherme Peres|563981|
+|Lucca Rosseto|564180|
+|Massayoshi|561779|
 
 ## 0. Setup do repositório (antes da 1ª aula; podem apagar esta seção depois)
 
